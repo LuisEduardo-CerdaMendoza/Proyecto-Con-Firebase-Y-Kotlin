@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wolfs Game</string>
+    <string name="strCrear_cuenta"><u>Crear Cuenta</u></string>
+    <string name="strOlvide_Contraseña"><u>Olvide Mi Contraseña</u></string>
+</resources>

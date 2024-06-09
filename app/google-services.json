@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "263877173472",
+    "project_id": "login-47a9d",
+    "storage_bucket": "login-47a9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263877173472:android:10959dbf876421fcd2f085",
+        "android_client_info": {
+          "package_name": "com.tesji.proyectolecm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSATE2woLjPeGU7ZZWqQ99dxTcvHQWIUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
